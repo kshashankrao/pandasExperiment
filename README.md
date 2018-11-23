@@ -1,2 +1,3 @@
 # pandasTutorial
-Basics of Pandas with Datraframe
+Basics commands of Pandas with Datraframe.
+
